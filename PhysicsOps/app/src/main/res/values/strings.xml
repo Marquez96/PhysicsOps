@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PhysicsOps</string>
+    <string name="nameDB">Administration</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Inciar sesion</string>
+    <string name="action_sign_in_short">Inciar sesion</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">El usuario o la contraseña son incorrectas</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_control_panel">Perfil</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_calendar">Calendario</string>
+    <string name="title_activity_friendship">Amistades</string>
+    <string name="bold_text_actual_friends"><![CDATA[<b>Amigos actuales</b>]]></string>
+    <string name="bold_text_friendship"><![CDATA[<b>Solicitudes de amistad</b>]]></string>
+    <string name="text_actual_friends">Amigos actuales</string>
+    <string name="text_friendship">Solicitudes de amistad</string>
+    <string name="title_activity_statistic">Estadisticas</string>
+    <string name="title_activity_statistics">Estadisticas</string>
+    <string name="title_activity_achievements">Logros</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="title_activity_register">Registro</string>
+    <string name="user">Usuario</string>
+    <string name="register_user">Usuario</string>
+    <string name="register_password">Contraseña</string>
+    <string name="register_confirm_password">Contraseña (repetir)</string>
+    <string name="register_mail">Usuario</string>
+    <string name="register_name">Nombre</string>
+    <string name="register_surname">Apellidos</string>
+    <string name="title_activity_add">Actividad</string>
+    <string name="title_activity_add_event">Actividad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_friend">Insertar amistad</string>
+    <string name="title_activity_show_event">Ver actividad</string>
+    <string name="settings">Ajustes</string>
+
+    <string name="textwarn">Se necesitan permisos para la aplicacion</string>
+    <string name="title_activity_show_friend">Mostrar amistad</string>
+</resources>
